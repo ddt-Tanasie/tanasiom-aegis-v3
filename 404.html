@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script>
+      var path = window.location.pathname;
+      var search = window.location.search;
+      var hash = window.location.hash;
+      sessionStorage.redirect = location.href;
+      window.location.replace(
+        '/' + path.split('/')[1] + '/'
+      );
+    </script>
+  </head>
+  <body></body>
+</html>
