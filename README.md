@@ -1,5 +1,4 @@
 # Tanasiom Aegis Security & Compliance
-https://tanasiomaegis.co.uk/
 
 **Live site:** https://tanasiomaegis.co.uk
 
