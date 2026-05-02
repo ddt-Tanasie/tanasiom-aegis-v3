@@ -13,7 +13,7 @@ import Contact from './pages/Contact'
 
 function App() {
   return (
-    <BrowserRouter basename="/tanasiom-aegis-v3">
+    <BrowserRouter>
       <Navbar />
       <div style={{ background: '#050810', minHeight: '100vh', color: '#c8d4e8' }}>
         <Routes>
